@@ -14,20 +14,13 @@ In this experiment, bidirectional recurrent neural networks are used to construc
 
 ## DESIGN STEPS
 
-### STEP 1:
-Import the required packages and Import the dataset.
-### STEP 2:
-Check for the empty values and fill the null values accordingly.
-### STEP 3:
-Get the count of the unique words in the given dataset 
-### STEP 4:
-Create the list of words and tags
-### STEP 5:
-Make the index for words and tags
-### STEP 6:
-Assign the values of x and y
-### STEP 7:
-create , compile and fit the dataset
+* STEP 1: Import the required packages and Import the dataset.
+* STEP 2: Check for the empty values and fill the null values accordingly.
+* STEP 3: Get the count of the unique words in the given dataset 
+* STEP 4: Create the list of words and tags
+* STEP 5: Make the index for words and tags
+* STEP 6: Assign the values of x and y
+* STEP 7: Create , Compile and fit the dataset
 
 ## PROGRAM
 ```
